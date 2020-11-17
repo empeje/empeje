@@ -1,5 +1,7 @@
 # empeje a.k.a mpj
 
+![empeje's github stats](https://github-readme-stats.vercel.app/api?username=empeje&show_icons=true&theme=radical)
+
 **I'm on the mission to inspire and groom people everywhere so that they can improve their lives, raise the bar, and contribute back to society.**
 
 For that mission, I'm currently building a company called [Kulkul Technology][KULKUL] where we develop software with clients all over the world and create a community to groom the next generation of software engineers. [Join our upcoming event here!][MEETUP]
