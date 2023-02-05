@@ -6,7 +6,7 @@
 
 **I'm on the mission to inspire and groom people everywhere so that they can improve their lives, raise the bar, and contribute back to society.**
 
-For that mission, I'm built (now "effectively" advising) a company called [Kulkul Technology][KULKUL] where we developed software with clients all over the world and create a community to groom the next generation of software engineers. [Join our upcoming event here!][MEETUP]
+For that mission, I built (now "effectively" advising) a company called [Kulkul Technology][KULKUL] where we developed software with clients all over the world and create a community to groom the next generation of software engineers. [Join our upcoming event here!][MEETUP]
 
 
 [<img src="https://github.com/kulkultech.png" width="150px" />][KULKUL]
