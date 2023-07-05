@@ -1,15 +1,16 @@
-# empeje a.k.a mpj
+<h1 align="center">Hi 👋, I'm mpj 🦝</h1>
+<h3 align="center">A 🦝 fooling around on the permissionless internet</h3>
 
-<a href="https://www.buymeacoffee.com/empeje"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=empeje&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=empeje&label=Profile%20views&color=0e75b6&style=flat" alt="empeje" /> </p>
+<p align="left"> <a href="https://twitter.com/YoKulGuy" target="blank"><img src="https://img.shields.io/twitter/follow/YoKulGuy?logo=twitter&style=for-the-badge" alt="YoKulGuy" /></a> </p>
 
-![empeje's github stats](https://github-readme-stats.vercel.app/api?username=empeje&show_icons=true&theme=radical)
+## Web3 Highlights ⚡️
 
-**I'm on the mission to inspire and groom people everywhere so that they can improve their lives, raise the bar, and contribute back to society.**
+- 🏆 [Encode x Gnosis Hackathon Winner 2023](https://medium.com/encode-club/encode-x-gnosis-hackathon-prizewinners-and-summary-c8e834aea325)
+- 🇮🇩 [Indonesia Chapter Lead for Stacks Ӿ est. 2022](https://twitter.com/StacksOrg/status/1647374496620314629?s=20). [Join now!](https://t.me/stacksindonesia)
+- 🎨 [Creator of Hologram AI NFT](https://tryhologram.art/)
+- 💎 [Initiator of Eth Jakarta](https://t.me/ethjkt)
 
-For that mission, I built (now "effectively" advising) a company called [Kulkul Technology][KULKUL] where we developed software with clients all over the world and create a community to groom the next generation of software engineers. [Join our upcoming event here!][MEETUP]
-
-
-[<img src="https://github.com/kulkultech.png" width="150px" />][KULKUL]
-
-[KULKUL]: https://github.com/kulkultech
-[MEETUP]: https://meetup.com/kulkul
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=empeje&show_icons=true&locale=en&layout=compact" alt="empeje" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=empeje&show_icons=true&locale=en" alt="empeje" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=empeje&" alt="empeje" /></p>
