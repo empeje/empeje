@@ -7,6 +7,7 @@
 ## Web3 Highlights ⚡️
 
 - 🏆 [Encode x Gnosis Hackathon Winner 2023](https://medium.com/encode-club/encode-x-gnosis-hackathon-prizewinners-and-summary-c8e834aea325)
+- 🥇 [Encode x Aurora Hackathon Winner 2023](https://medium.com/encode-club/encode-x-aurora-hackathon-prizewinners-and-summary-8c2dff465a75)
 - 🇮🇩 [Indonesia Chapter Lead for Stacks Ӿ est. 2022](https://twitter.com/StacksOrg/status/1647374496620314629?s=20). [Join now!](https://t.me/stacksindonesia)
 - 🎨 [Creator of Hologram AI NFT](https://tryhologram.art/)
 - 💎 [Initiator of Eth Jakarta](https://t.me/ethjkt)
