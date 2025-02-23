@@ -4,6 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=empeje&label=Profile%20views&color=0e75b6&style=flat" alt="empeje" /> </p>
 <p align="left"> <a href="https://twitter.com/YoKulGuy" target="blank"><img src="https://img.shields.io/twitter/follow/YoKulGuy?logo=twitter&style=for-the-badge" alt="YoKulGuy" /></a> </p>
 
+## Recent focus
+
+For the past year, I’ve been focusing my energy on Applied AI R&D as a hobbyist. Here are some prototypes I’ve built in my free time.
+- [FigureAI](https://figureai.andalas.co) - Chat with your idol
+- [CrewAI](https://crew-ai.fly.dev) - AI Image Generator - Deprecated ⛔️
+- [HologramAI](http://tryhologram.art) - NFT Art Generator
+- [Purr-Spective](https://chromewebstore.google.com/detail/purrspective/iapjmbmobcahmeebddonncajaeciefdf?hl=nl) - Misinformation Widget for your Browser
+- Many are in the making. 
+
+
 ## Web3 Highlights ⚡️
 
 - 🎨 [Creator of Hologram AI NFT](https://tryhologram.art/)
@@ -17,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=empeje&show_icons=true&locale=en&layout=compact" alt="empeje" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=empeje&show_icons=true&locale=en" alt="empeje" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=empeje&" alt="empeje" /></p>
