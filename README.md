@@ -6,7 +6,7 @@
 
 ## Recent focus
 
-For the past year, I’ve been focusing my energy on Applied AI R&D as a hobbyist. Here are some prototypes I’ve built in my free time.
+For the past year, I’ve been focusing my energy on Applied AI R&D both in professional setting and as a hobbyist. Here are some prototypes I’ve built in my free time.
 - [FigureAI](https://figureai.andalas.co) - Chat with your idol
 - [CrewAI](https://crew-ai.fly.dev) - AI Image Generator - Deprecated ⛔️
 - [HologramAI](http://tryhologram.art) - NFT Art Generator
