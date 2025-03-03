@@ -7,6 +7,7 @@
 ## Recent focus
 
 For the past year, I’ve been focusing my energy on Applied AI R&D both in professional setting and as a hobbyist. Here are some prototypes I’ve built in my free time.
+- [my-custom-gpts](https://github.com/empeje/my-custom-gpts) - Library of My Custom GPT
 - [FigureAI](https://figureai.andalas.co) - Chat with your idol
 - [CrewAI](https://crew-ai.fly.dev) - AI Image Generator - Deprecated ⛔️
 - [HologramAI](http://tryhologram.art) - NFT Art Generator
