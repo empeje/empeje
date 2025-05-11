@@ -10,14 +10,14 @@ For the past year, I’ve been focusing my energy on Applied AI R&D both in prof
 - [my-custom-gpts](https://github.com/empeje/otwarte-system-oprogramowania/tree/master/packages/my-custom-gpts) - Library of My Custom GPT
 - [FigureAI](https://figureai.andalas.co) - Chat with your idol
 - [CrewAI](https://crew-ai.fly.dev) - AI Image Generator - Deprecated ⛔️
-- [HologramAI](http://tryhologram.art) - NFT Art Generator
+- [HologramAI](http://hologram.kul.to) - NFT Art Generator
 - [Purr-Spective](https://chromewebstore.google.com/detail/purrspective/iapjmbmobcahmeebddonncajaeciefdf?hl=nl) - Misinformation Widget for your Browser
 - Many are in the making. 
 
 
 ## Web3 Highlights ⚡️
 
-- 🎨 [Creator of Hologram AI NFT](https://tryhologram.art/)
+- 🎨 [Creator of Hologram AI NFT](https://hologram.kul.to/)
     - 🏆 [Encode x Gnosis Hackathon Winner 2023](https://medium.com/encode-club/encode-x-gnosis-hackathon-prizewinners-and-summary-c8e834aea325)
     - 🥇 [Encode x Aurora Hackathon Winner 2023](https://medium.com/encode-club/encode-x-aurora-hackathon-prizewinners-and-summary-8c2dff465a75)
     - 🦉 [Gnosis NFT Collection](https://niftyfair.io/gc/collection/0x45632949a5b0e576914232b2908f84d5c5ef005c/)
