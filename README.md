@@ -7,6 +7,7 @@ I love raising the bar of what developers can do. You might randomly know me fro
 ## `$ whoami`
 
 - 🏢 Engineer at [bol.](https://github.com/bolcom)
+- 🎨 Creator of [Bakul AI](https://ba.kul.to)
 - 📍 Based in Holland
 - 🌎 Mostly Nothing
 
