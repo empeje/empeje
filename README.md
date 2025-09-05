@@ -8,7 +8,7 @@ I love raising the bar of what developers can do. You might randomly know me fro
 
 - 🏢 Engineer at [bol.](https://github.com/bolcom)
 - 👨‍🎓 MSc CyberSec at Royal Holloway, University of London
-- 🎨 Creator of [Bakul AI](https://ba.kul.to)
+- 🎨 Creator of [Bakul AI][Bakul-AI]
 - 📍 Based in Holland
 - 🌎 Mostly Nothing
 
@@ -19,6 +19,7 @@ I love raising the bar of what developers can do. You might randomly know me fro
 
 ## `$ make build`
 
+- [Bakul AI][Bakul-AI] [↗][Bakul-AI-repo]
 - [my-custom-gpts][my-custom-gpts] [↗][my-custom-gpts-fork]
 - [Purr-Spective][Purr-Spective] [↗][Purr-Spective-fork]
 - [FigureAI][FigureAI]
@@ -37,3 +38,5 @@ I love raising the bar of what developers can do. You might randomly know me fro
 [Purr-Spective-fork]: https://github.com/kulkultech/purr-spective
 [FigureAI]: https://figureai.andalas.co
 [HologramAI]: http://hologram.kul.to
+[Bakul-AI]: https://ba.kul.to
+[Bakul-AI-repo]: https://github.com/empeje/bakul
