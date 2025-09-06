@@ -19,7 +19,7 @@ I love raising the bar of what developers can do. You might randomly know me fro
 
 ## `$ make build`
 
-- [Bakul AI][Bakul-AI] [↗][Bakul-AI-repo]
+- [Bakul AI][Bakul-AI] [↗][Bakul-AI-repo] [↗][Bakul-AI-MCP-repo]
 - [my-custom-gpts][my-custom-gpts] [↗][my-custom-gpts-fork]
 - [Purr-Spective][Purr-Spective] [↗][Purr-Spective-fork]
 - [FigureAI][FigureAI]
@@ -40,3 +40,4 @@ I love raising the bar of what developers can do. You might randomly know me fro
 [HologramAI]: http://hologram.kul.to
 [Bakul-AI]: https://ba.kul.to
 [Bakul-AI-repo]: https://github.com/empeje/bakul
+[Bakul-AI-MCP-repo]: https://github.com/empeje/bakul-mcp
