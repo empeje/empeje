@@ -9,7 +9,7 @@ I love raising the bar of what developers can do. You might randomly know me fro
 - 🏢 Engineer at [bol.](https://github.com/bolcom)
 - 👨‍🎓 MSc CyberSec at Royal Holloway, University of London
 - 🎨 Creator of [Bakul AI][Bakul-AI]
-- 📕 Author of [Jump Start SWE](https://leanpub.com/jump-swe)
+- 📕 Author of [Jump Start SWE](https://leanpub.com/jump-swe), and [GitLab CI Cheatsheet](https://leanpub.com/gitlabcheatsheet)
 - 📍 Based in Holland
 - 🌎 Mostly Nothing
 
