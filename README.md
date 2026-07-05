@@ -8,6 +8,7 @@ I love raising the bar of what developers can do. You might randomly know me fro
 
 - 🏢 Engineer at [Booking.com's FareHarbor](https://fareharbor.com/)
 - 👨‍🎓 MSc CyberSec at Royal Holloway, University of London
+- 🤖 Builder of [AI Starter](https://starter.kulkul.tech/)
 - 🎨 Creator of [Bakul AI][Bakul-AI]
 - 📕 Author of [Jump Start SWE](https://leanpub.com/jump-swe), and [GitLab CI Cheatsheet](https://leanpub.com/gitlabcheatsheet)
 - 📍 Based in Holland
