@@ -6,7 +6,7 @@ I love raising the bar of what developers can do. You might randomly know me fro
 
 ## `$ whoami`
 
-- 🏢 Engineer at [bol.](https://github.com/bolcom)
+- 🏢 Engineer at [Booking.com's FareHarbor](https://fareharbor.com/)
 - 👨‍🎓 MSc CyberSec at Royal Holloway, University of London
 - 🎨 Creator of [Bakul AI][Bakul-AI]
 - 📕 Author of [Jump Start SWE](https://leanpub.com/jump-swe), and [GitLab CI Cheatsheet](https://leanpub.com/gitlabcheatsheet)
